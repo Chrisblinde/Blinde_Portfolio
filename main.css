@@ -1,0 +1,68 @@
+
+.body{
+  background:  url("https://images.unsplash.com/photo-1551035846-ddc883ecfe54?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=60") repeat  ;
+}
+.jumbotron {
+    padding-top: 10rem;
+    padding-bottom: 10rem;
+    margin-bottom: 0;
+    background:  url("https://images.unsplash.com/photo-1551035846-ddc883ecfe54?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=60") repeat ;
+  }
+  @media (min-width: 450px){ 
+  .col-sm-7 {
+      flex: 0 0 58.333333%;
+      max-width: 58.3333333%;
+      
+    }
+  }
+  
+  .jumbotron p:last-child {
+    margin-bottom: 0;
+  }
+  
+  .jumbotron h1 {
+    font-weight: 300;
+    color: rgb(225, 236, 230);
+    text-shadow: 2px 2px black;
+  }
+  
+  .jumbotron .container {
+    max-width: 40rem;
+  }
+
+  .jumbotron p{
+    font-weight: 300;
+    color: white;
+    text-shadow: 1px 1px black;
+  }
+
+  #py-5 .container{
+    background:  url("https://images.unsplash.com/photo-1551035846-ddc883ecfe54?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=60") repeat;
+  }  
+   
+  
+  
+ .aboutImgBox
+  {
+    width: 450px;
+    
+    
+  }
+
+  .imgFill{
+    width:100%;
+  }
+      
+ 
+
+ 
+  
+  footer {
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+  }
+  
+  footer p {
+    margin-bottom: .25rem;
+  }
+  
